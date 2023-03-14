@@ -1,8 +1,8 @@
 # Coronovirus-Tweet-Sentiment-Analysis
 
-Introduction This project uses machine learning to analyze sentiment in tweets related to COVID-19. The goal is to understand how people are feeling about the pandemic and its impact on their lives.
+Introduction This project uses machine learning to analyze sentiment in tweets related to Coronovirus. The goal is to understand how people are feeling about the pandemic and its impact on their lives.
 
-Data The data for this project consists of tweets related to COVID-19 collected from the Twitter API. The tweets are pre-processed to remove any irrelevant information and cleaned to prepare for sentiment analysis.
+Data The data for this project consists of tweets related to Coronovirus collected from the Twitter API. The tweets are pre-processed to remove any irrelevant information and cleaned to prepare for sentiment analysis.
 
 Methodology The sentiment analysis is performed using a supervised machine learning model. The model is trained on a dataset of labeled tweets and is then used to predict the sentiment of new, unlabeled tweets.
 
